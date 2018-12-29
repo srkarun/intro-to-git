@@ -12,6 +12,7 @@
    git revert --no commit 2ver4r45...HEAD  
    touch .gitignore and add filename to be ignore on that and it will be ignored from staging.
    git checkout -b feature1 - creates new branch
+   git checkout branchname - goes to branch
  
 
 
