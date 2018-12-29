@@ -13,6 +13,8 @@
    touch .gitignore and add filename to be ignore on that and it will be ignored from staging.
    git checkout -b feature1 - creates new branch
    git checkout branchname - goes to branch
+   git branch - gives list of branches
+   git branch -d<branch_name> - this deletes branch
  
 
 
