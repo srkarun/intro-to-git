@@ -4,3 +4,5 @@ console.log("gitstatus - this gives status of the git");
 console.log("gitadd - git add filename will add file to git");
 console.log("gitadd - git add . - this stages all files");
 console.log("gitcommit - git commit -m "presenttesnse" will commit the file");
+console.log("gitlog - gives logs of gitcommits");
+console.log("gitcheckout - gitcheckout and version name from above log checks you to older version");
