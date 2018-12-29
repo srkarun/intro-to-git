@@ -10,4 +10,8 @@
    gitcheckout - gitcheckout and version name from above log checks you to older version  
    gitcheckout master - this gets us back to master  
    git revert --no commit 2ver4r45...HEAD  
+   touch .gitignore and add filename to be ignore on that and it will be ignored from staging.
+   git checkout -b feature1 - creates new branch
+ 
+
 
